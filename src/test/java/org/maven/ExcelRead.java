@@ -22,6 +22,7 @@ public class ExcelRead {
 		for (int j = 0; j < r.getPhysicalNumberOfCells(); j++) {
 			Cell c = r.getCell(j);
 			System.out.println(c);
+			System.out.println(c);
 		}	
 		}
 	}
